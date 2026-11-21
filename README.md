@@ -7,7 +7,7 @@
 ## Featured project
 [Which paper plane flies farther?](<https://github.com/LeoBearChaco/my-first-repo/blob/main/flight-log.md>)
 
-I compared [number] fictional flights and used [method]. I found [your result in one sentence].
+I compared 10 fictional flights and tested 5 flights with darts and 5 flights with gliders. I found that gliders fly farther.
 
 ## Tools I’ve used
 - Markdown: I organized a README with headings and links.
